@@ -1,5 +1,7 @@
 # Apache Cassandra Chef Cookbook
 
+A shameless rip from [here](https://github.com/michaelklishin/cassandra-chef-cookbook.git)
+
 This is an OpsCode Chef cookbook for Apache Cassandra ([DataStax Community Edition](http://www.datastax.com/products/community)).
 
 It uses officially released Debian packages, provides Upstart service script but has no
