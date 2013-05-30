@@ -20,8 +20,6 @@
 # This recipe relies on a PPA package and is Ubuntu/Debian specific. Please
 # keep this in mind.
 
-include_recipe "apt"
-
 apt_repository "datastax" do
   uri          "http://debian.datastax.com/community"
   distribution "stable"
